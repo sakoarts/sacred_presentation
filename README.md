@@ -1,0 +1,2 @@
+A small presentation about the python package sacred, given for the Deep Learning community at the TU/e
+NOTE: This is not heavily commented or explained in writing, so I will probably not help you much without me presenting it
